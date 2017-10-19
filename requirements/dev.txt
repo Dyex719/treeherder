@@ -20,13 +20,13 @@ responses==0.7.0 \
     --hash=sha256:860f2ac3aed6954b6dfc79ee27a229d423c77ad7a4c242f26c1489bdd702d8e4 \
     --hash=sha256:912da86d9d9ca6e02f00e5ecd61d08992ab1511858260bd5df8b2b1e51a6dc9f
 
-django-extensions==1.8.1 \
-    --hash=sha256:b29373cc2dd087d978166c2183f272db77a0dace565ba6393bbffed7ce7344aa \
-    --hash=sha256:c8b39b1c929785286a5ec5f38f9c90f7481fbe51a036161d1b622e7a6abaa1d6
+django-extensions==1.9.0 \
+    --hash=sha256:9929411e66e8e9b693bcce0812c612718b40a31632c1d850bb294c15973e8de4 \
+    --hash=sha256:590e3dde8348a5c5777ca1c23a7734dda20c60729d5ce4d73f5f4dcd50222211
 
-pytest-selenium==1.11.0 \
-    --hash=sha256:e6cbb45849ca5fa6ed466923e22b269b9a200bfafb9e9410a28386fd74764bb9 \
-    --hash=sha256:f0934b26e94760507c0eb6859ebdd193d59c1156187eef4ebb7abdfd8433c6b0
+pytest-selenium==1.11.1 \
+    --hash=sha256:91a94a1221d180c7d455b5b1bd50d5cbce797f0ca81d28239075048abbf416b4 \
+    --hash=sha256:b98f97f7fc1f24b9806ab369df3077cf43cce0884e427ad7a21b9239ac8bef47
 
 # Required by django-extension's runserver_plus command.
 Werkzeug==0.12.2 \
@@ -75,9 +75,9 @@ mccabe==0.6.1 \
 pycodestyle==2.3.1 \
     --hash=sha256:6c4245ade1edfad79c3446fadfc96b0de2759662dc29d07d80a6f27ad1ca6ba9 \
     --hash=sha256:682256a5b318149ca0d2a9185d365d8864a768a28db66a84a2ea946bcc426766
-pyflakes==1.5.0 \
-    --hash=sha256:cc5eadfb38041f8366128786b4ca12700ed05bbf1403d808e89d57d67a3875a7 \
-    --hash=sha256:aa0d4dff45c0cc2214ba158d29280f8fa1129f3e87858ef825930845146337f4
+pyflakes==1.6.0 \
+    --hash=sha256:08bd6a50edf8cffa9fa09a463063c425ecaaf10d1eb0335a7e8b1401aef89e6f \
+    --hash=sha256:8d616a382f243dbf19b54743f280b80198be0bca3a5396f1d2e1fca6223e8805
 
 pytest-django==3.1.2 --hash=sha256:00995c2999b884a38ae9cd30a8c00ed32b3d38c1041250ea84caf18085589662
 
