@@ -219,8 +219,14 @@ taskcluster==1.3.5 \
     --hash=sha256:67373888f4d3c7adf8d0198db0535ff414a71239868532a5522d0285a20d0cf1
 
 # Required by Taskcluster
-aiohttp==2.2.5; python_version >= '3' \
-    --hash=sha256:b80f44b99fa3c9b4530fcfa324a99b84843043c35b084e0b653566049974435d
+aiohttp==2.3.3; python_version >= '3' \
+    --hash=sha256:56dec8192fd9174735ed6ed24ea8d74aa09ec3cd8d3218300f4eceaa7d65d2c8 \
+    --hash=sha256:7f7776146aeef02042acc22a9212e17ce7e144983090d93fe12fe1b95ef376e2 \
+    --hash=sha256:e58b2172e456dae4a36fcc5736ff3b66fabd3a61d14213d5f677b5a39eb34d47 \
+    --hash=sha256:39606fe24eed40dfbd8e961f37f8438a64ecbddcbc4bc8162c23d0bfd14b3a8a \
+    --hash=sha256:f8970430dd5f0a73d2b49985ee4e69286be175ac268802922479988e0ef12ae6 \
+    --hash=sha256:dcd89fdb7f6e9d22bd90704dcc1949f1b45f7b5fde99c5e3acc58c987eeb6a73 \
+    --hash=sha256:0a2e33e90560dacb819b095b9d9611597925d75d1b93dd9490055d3826d98a82
 
 yarl==0.12.0; python_version >= '3' \
     --hash=sha256:2c17908b08b6ceff0944d2256eb889e5d81761509dc24504433bbcb7761eeb93 \
