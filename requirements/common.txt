@@ -148,7 +148,8 @@ sqlparse==0.2.3 \
     --hash=sha256:becd7cc7cebbdf311de8ceedfcf2bd2403297024418801947f8c953025beeff8
 
 # Used directly and also by Django's YAML serializer.
-PyYAML==3.12 --hash=sha256:592766c6303207a20efc445587778322d7f73b161bd994f227adaa341ba212ab
+PyYAML==4.1 \
+    --hash=sha256:a9b322285f419429402d5ce15e8f6d5c7a64f659eb87251af8b35c106f00a8e3
 
 django-environ==0.4.4 \
     --hash=sha256:e9c171b9d5f540e6f3bc42866941d9cd0bd77fb110a7c13a7c4857a2c08cfa40 \
