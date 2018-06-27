@@ -42,9 +42,9 @@ isort==4.2.15 \
     --hash=sha256:79f46172d3a4e2e53e7016e663cc7a8b538bec525c36675fcfd2767df30b3983
 
 # Required by pytest
-py==1.4.34 \
-    --hash=sha256:2ccb79b01769d99115aa600d7eed99f524bf752bba8f041dc1c184853514655a \
-    --hash=sha256:0f2d585d22050e90c7d293b6451c83db097df77871974d90efd5a30dc12fcde3
+py==1.5.4 \
+    --hash=sha256:e31fb2767eb657cbde86c454f02e99cb846d3cd9d61b318525140214fdc0e98e \
+    --hash=sha256:3fd59af7435864e1a243790d322d763925431213b6b8529c6ca71081ace3bbf7
 
 # Required by WebTest
 beautifulsoup4==4.6.0 \
