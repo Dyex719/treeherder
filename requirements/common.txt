@@ -213,10 +213,10 @@ idna==2.6 \
 slugid==1.0.7 --hash=sha256:6dab3c7eef0bb423fb54cb7752e0f466ddd0ee495b78b763be60e8a27f69e779
 
 # Used for Taskcluster auth
-taskcluster==1.3.5 \
-    --hash=sha256:02941a2e65f505110f7cff9535e607eaf6fa247042da58c9ead99e7eb1518490 \
-    --hash=sha256:76bca16bf5585bdfd2518fc615ac0d6f8f7acf23f8737879b0ef0adbc7822606 \
-    --hash=sha256:67373888f4d3c7adf8d0198db0535ff414a71239868532a5522d0285a20d0cf1
+taskcluster==3.0.2 \
+    --hash=sha256:9b5269735a747fecf0530b5caf3dd4905a86c73534338e48ba268bf55f0938ff \
+    --hash=sha256:0794163ac0089317bd398cea00ed01e173edacaa17c4ce517c7fdde639ae145e \
+    --hash=sha256:e3a344da01f2fe2c8c09fc893c12109bda81b0f6c6d22ccedc0814506620e89d
 
 # Required by Taskcluster
 aiohttp==2.2.5; python_version >= '3' \
