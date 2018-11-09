@@ -180,8 +180,12 @@ django-filter==1.0.4 \
 djangorestframework-filters==0.10.1 \
     --hash=sha256:87a292cb884117b7c142125460230f88d6928c427e69f645b8287e303cf03d30
 
-pylibmc==1.5.2 \
-    --hash=sha256:fc54e28a9f1b5b2ec0c030da29c7ad8a15c2755bd98aaa4142eaf419d5fabb33
+pylibmc==1.6.0 \
+    --hash=sha256:fa0a6352bb4a2e70965e5d4d5869b3e9c37e8959c51bdcf2ec743ee6b79b7dd9 \
+    --hash=sha256:69bfcc6b4d39a7e04fa8670943fcd8ea13e07c2ef27d08542413b8a509aa585f \
+    --hash=sha256:4fd0badca436accfe0c76fb28ee6323afc7626fa1e85f899d69242a9d9f3a729 \
+    --hash=sha256:d29d266dcbd3cd67ba1ca449d7412e49c548b2837b9a4a361fa57c9fdd469082 \
+    --hash=sha256:5ef97be4ca5527d5b87dbe77cfdd94b427028caf4136feff7da23c40e1ded6d8
 
 django-pylibmc==0.6.1 --hash=sha256:9cffdee703aaf9ebc029d9dbdee8abdd0723564b95e4b2ac59e4a668b8e58f93
 
