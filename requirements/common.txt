@@ -4,7 +4,9 @@ gunicorn==19.7.1 \
     --hash=sha256:75af03c99389535f218cc596c7de74df4763803f7b63eb09d77e92b3956b36c6 \
     --hash=sha256:eee1169f0ca667be05db3351a0960765620dad53f53434262ff8901b68a1b622
 
-whitenoise==3.3.0 --hash=sha256:1d62a003a0ab747de96da45c831cbb512dcb7f69c1ef0bd20b1cd4ae45d8a0c4
+whitenoise==4.1.1 \
+    --hash=sha256:d3609f505db173be501e8a5549d396e6013543fe126ee073b435833fc3403306 \
+    --hash=sha256:b1ddbce083c51a064da5e99dacbfff38b291d8436b6fd75156a3bb2265c55d39
 
 # Used by the Whitenoise CLI tool to provide Brotli-compressed versions of static files.
 Brotli==0.6.0 \
