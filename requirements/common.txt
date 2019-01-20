@@ -173,9 +173,9 @@ python-dateutil==2.6.1 \
 requests-hawk==1.0.0 --hash=sha256:c2626ab31ebef0c81b97781c44c2275bfcc6d8e8520fc4ced495f0f386f8fe26
 
 # djangorestframework-filters doesn't yet support django-filter 1.x.
-django-filter==1.0.4 \
-    --hash=sha256:6ef1611aeacfda8f13a075a992ff65687afbd5cc8fcb0f3f1563a9ad4fe2d1b0 \
-    --hash=sha256:e44620d4e707beaff7396ac8df765dc015a07467df813b9c1663fe4017934b58
+django-filter==2.1.0 \
+    --hash=sha256:a3014de317bef0cd43075a0f08dfa1d319a7ccc5733c3901fb860da70b0dda68 \
+    --hash=sha256:3dafb7d2810790498895c22a1f31b2375795910680ac9c1432821cbedb1e176d
 
 djangorestframework-filters==0.10.1 \
     --hash=sha256:87a292cb884117b7c142125460230f88d6928c427e69f645b8287e303cf03d30
