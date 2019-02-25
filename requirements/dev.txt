@@ -37,9 +37,9 @@ flake8==3.4.1 \
     --hash=sha256:f1a9d8886a9cbefb52485f4f4c770832c7fb569c084a9a314fb1eaa37c0c2c86 \
     --hash=sha256:c20044779ff848f67f89c56a0e4624c04298cd476e25253ac0c36f910a1a11d8
 
-isort==4.2.15 \
-    --hash=sha256:cd5d3fc2c16006b567a17193edf4ed9830d9454cbeb5a42ac80b36ea00c23db4 \
-    --hash=sha256:79f46172d3a4e2e53e7016e663cc7a8b538bec525c36675fcfd2767df30b3983
+isort==4.3.7 \
+    --hash=sha256:44b9054f8774a652563c01d5dca28340a4ca23f9e30b8ea99e28927ddee5876e \
+    --hash=sha256:bbdb9c4d97dcabaa937511f1bf4d2b2bdbf0370053a4b587ad1adf19f83c1a5c
 
 # Required by pytest
 py==1.4.34 \
