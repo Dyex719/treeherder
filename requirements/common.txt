@@ -92,9 +92,9 @@ jsonschema==2.6.0 \
     --hash=sha256:000e68abd33c972a5248544925a0cae7d1125f9bf6c58280d37546b946769a08 \
     --hash=sha256:6ff5f3180870836cae40f06fa10419f557208175f13ad7bc26caa77beb1f6e02
 
-djangorestframework==3.6.4 \
-    --hash=sha256:0f9bfbac702f3376dfb2db4971ad8af4e066bfa35393b1b85e085f7e8b91189a \
-    --hash=sha256:de8ac68b3cf6dd41b98e01dcc92dc0022a5958f096eafc181a17fa975d18ca42
+djangorestframework==3.9.2 \
+    --hash=sha256:8a435df9007c8b7d8e69a21ef06650e3c0cbe0d4b09e55dd1bd74c89a75a9fcd \
+    --hash=sha256:f7a266260d656e1cf4ca54d7a7349609dc8af4fe2590edd0ecd7d7643ea94a17
 
 django-rest-swagger==2.1.2 \
     --hash=sha256:ff889e2b339a9a57010dba7729d56471e05b77827f6dd36c0bcb983839882598 \
