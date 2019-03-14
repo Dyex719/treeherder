@@ -177,8 +177,9 @@ django-filter==1.0.4 \
     --hash=sha256:6ef1611aeacfda8f13a075a992ff65687afbd5cc8fcb0f3f1563a9ad4fe2d1b0 \
     --hash=sha256:e44620d4e707beaff7396ac8df765dc015a07467df813b9c1663fe4017934b58
 
-djangorestframework-filters==0.10.1 \
-    --hash=sha256:87a292cb884117b7c142125460230f88d6928c427e69f645b8287e303cf03d30
+djangorestframework-filters==0.11.0 \
+    --hash=sha256:02ed1d965a1ecfb11ef7a4d738444e01abfa4e4a64782e37db8a8ab199ab5c17 \
+    --hash=sha256:456cc382061f8c83ed611476025060e81351473efbc39ca3ecd0b3ecdde3045f
 
 pylibmc==1.5.2 \
     --hash=sha256:fc54e28a9f1b5b2ec0c030da29c7ad8a15c2755bd98aaa4142eaf419d5fabb33
