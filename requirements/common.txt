@@ -193,9 +193,9 @@ elasticsearch-dsl==5.3.0 \
     --hash=sha256:de81b2322cde9bf1171c8a41d80596cdadd433b88b93daa09060af3a512523a7
 
 # required by requests and elasticsearch
-urllib3==1.22 \
-    --hash=sha256:06330f386d6e4b195fbfc736b297f58c5a892e4440e54d294d7004e3a9bbea1b \
-    --hash=sha256:cc44da8e1145637334317feebd728bd869a35285b93cbb4cca2577da7e62db4f
+urllib3==1.25.2 \
+    --hash=sha256:a53063d8b9210a7bdec15e7b272776b9d42b2fd6816401a0d43006ad2f9902db \
+    --hash=sha256:d363e3607d8de0c220d31950a8f38b18d5ba7c0830facd71a1c6b1036b7ce06c
 
 certifi==2017.7.27.1 \
     --hash=sha256:54a07c09c586b0e4c619f02a5e94e36619da8e2b053e20f594348c0611803704 \
