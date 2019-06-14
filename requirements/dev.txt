@@ -60,9 +60,9 @@ WebOb==1.7.3 \
 
 # Required by mock
 funcsigs==1.0.2 --hash=sha256:330cc27ccbf7f1e992e69fef78261dc7c6569012cf397db8d3de0234e6c937ca
-pbr==3.1.1 \
-    --hash=sha256:60c25b7dfd054ef9bb0ae327af949dd4676aa09ac3a9471cdc871d8a9213f9ac \
-    --hash=sha256:05f61c71aaefc02d8e37c0a3eeb9815ff526ea28b3b76324769e6158d7f95be1
+pbr==5.3.0 \
+    --hash=sha256:089ccb087e9bd8f278caedfa6c2c5d461381437eda3db750b6834e78b319f404 \
+    --hash=sha256:9fb1c3371344cd617eb073c6c00872e9b0e5a7fefed6cd29f327a1b26ab5c498
 
 # Required by responses
 cookies==2.2.1 --hash=sha256:15bee753002dff684987b8df8c235288eb8d45f8191ae056254812dfd42c81d3
