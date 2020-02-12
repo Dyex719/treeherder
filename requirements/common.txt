@@ -104,9 +104,9 @@ django-cors-headers==2.1.0 \
     --hash=sha256:4e02be61ffaaab5917f1fd7cc3c305c4fb7ccd0156a649c96f49bc0a09c5f572 \
     --hash=sha256:451bc37a514792c2b46c52362368f7985985933ecdbf1a85f82652579a5cbe01
 
-jsonfield==2.0.2 \
-    --hash=sha256:a0a7fdee736ff049059409752b045281a225610fecbda9b9bd588ba976493c12 \
-    --hash=sha256:beb1cd4850d6d6351c32daefcb826c01757744e9c863228a642f87a1a4acb834
+jsonfield==2.1.1 \
+    --hash=sha256:1ae437686daab56dfb619291d4774ac075016ab4cad24abf445ad05da03a85a8 \
+    --hash=sha256:ed7c5e1829e9453e24a8bebef1e702ffe402e6def6b326f0e0b88764c59a6dc7
 
 mozlog==3.5 \
     --hash=sha256:30fa398c631faf2f6b8cc81d95e35e3ee9f1a6e5bcdf3132fde7ad943273d66e \
