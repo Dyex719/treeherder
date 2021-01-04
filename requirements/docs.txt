@@ -8,5 +8,5 @@
 
 Sphinx==1.6.3
 sphinx-autobuild==0.7.1
-sphinx-rtd-theme==0.2.4
+sphinx-rtd-theme==0.5.1
 sphinxcontrib-httpdomain==1.5.0
