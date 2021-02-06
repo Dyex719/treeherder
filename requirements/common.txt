@@ -266,10 +266,9 @@ typing==3.6.2 \
 promise==2.0.2 \
     --hash=sha256:f6ac7ec189bfb14ab8987f211db85fa8147fe13ca5d2a8c15926307d8948c082
 singledispatch==3.4.0.3 --hash=sha256:833b46966687b3de7f438c761ac475213e53b306740f1abfaa86e1d1aae56aa8
-iso8601==0.1.12 \
-    --hash=sha256:210e0134677cc0d02f6028087fee1df1e1d76d372ee1db0bf30bf66c5c1c89a3 \
-    --hash=sha256:bbbae5fb4a7abfe71d4688fd64bff70b91bbd74ef6a99d964bab18f7fdf286dd \
-    --hash=sha256:49c4b20e1f38aa5cf109ddcd39647ac419f928512c869dc01d5c7098eddede82
+iso8601==0.1.14 \
+    --hash=sha256:8aafd56fa0290496c5edbb13c311f78fa3a241f0853540da09d9363eae3ebd79 \
+    --hash=sha256:e7e1122f064d626e17d47cd5106bed2c620cb38fe464999e0ddae2b6d2de6004
 graphene==1.4.1 \
     --hash=sha256:36134e026ec987514b240b57e3b6a995d6aed0fc5dece0567e77d5aed0ad0ece
 
