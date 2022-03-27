@@ -91,9 +91,9 @@ pytest-html==1.15.2 \
 pytest-metadata==1.5.0 \
     --hash=sha256:d5788ced96426bf5ac890a7684ec24480782fda932cbdf9dbb073a4a2980770b \
     --hash=sha256:f962d1a2ecb57162a3067ba41958e726ed6eb017f69648cb9439e7635f841bc8
-pytest-variables==1.7.0 \
-    --hash=sha256:61a6098175a59af5dbabf4c93ceee81a75f045868078903c44e2edb9582d5d6e \
-    --hash=sha256:d333e1df272f9ef4bf45d8665ee46a4901b11ab52bf661e83174f42f2f83df39
+pytest-variables==2.0.0 \
+    --hash=sha256:1a24a30b7acf9654d71bcdc8b10c1eb0d81b73b3eec72d810703c522475d643b \
+    --hash=sha256:1c9e4fc321e33be7d1b352ac9cf20fdd2c39a8e4e6fa2dcd042aaf70ed516be7
 pytest-base-url==1.4.1 \
     --hash=sha256:31e42366a5fc22f450b398837dc819bb7569f5e6bd5d74e494b2b9ec239876d1 \
     --hash=sha256:7425e8163345494ac7f544e99c6f3e5a08f4228bee5e26013b98c462a4d31f6e
